@@ -1,3 +1,7 @@
+![JankyBorders banner: four plain window shapes on a charcoal wall, three outlined in dim blue neon tube and one in bright red tube glowing harder than the rest, amber reflections pooling on the floor beneath the bright frame](banner.png)
+
+<p align="center"><img src="logo.png" alt="JankyBorders logo: a rectangular frame of glowing red neon tube on a charcoal wall, a neon camera outline inside the frame, faint electric blue reflection beneath" width="200"></p>
+
 # JankyBorders
 
 <img align="right" width="50%" src="images/screenshot.png" alt="Screenshot">
